@@ -1,0 +1,18 @@
+2021-11-18 14:37:50,734 - INFO - data_dir       :	data/ShanghaiTech/part_A/train_data
+2021-11-18 14:37:50,734 - INFO - dataset        :	sha
+2021-11-18 14:37:50,735 - INFO - lr             :	1e-05
+2021-11-18 14:37:50,736 - INFO - weight_decay   :	0.0001
+2021-11-18 14:37:50,736 - INFO - resume         :	
+2021-11-18 14:37:50,737 - INFO - max_epoch      :	1000
+2021-11-18 14:37:50,737 - INFO - val_epoch      :	5
+2021-11-18 14:37:50,738 - INFO - val_start      :	50
+2021-11-18 14:37:50,738 - INFO - batch_size     :	10
+2021-11-18 14:37:50,739 - INFO - device         :	0
+2021-11-18 14:37:50,739 - INFO - num_workers    :	3
+2021-11-18 14:37:50,740 - INFO - crop_size      :	256
+2021-11-18 14:37:50,740 - INFO - wot            :	0.1
+2021-11-18 14:37:50,742 - INFO - wtv            :	0.01
+2021-11-18 14:37:50,742 - INFO - reg            :	10.0
+2021-11-18 14:37:50,743 - INFO - num_of_iter_in_ot:	100
+2021-11-18 14:37:50,744 - INFO - norm_cood      :	0
+2021-11-18 14:37:50,777 - INFO - using 1 gpus
