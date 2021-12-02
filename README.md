@@ -1,3 +1,7 @@
+# 2021년 Computer Vision - Distribution Matching for Crowd Counting
+
+영상 : https://www.youtube.com/watch?v=QI87mSF9fFo
+
 # dm_count
 
 해당 내용은 2021년 2학기 컴퓨터비전에서 사용하는 군중 계산 관련 데이터입니다.
